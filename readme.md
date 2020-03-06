@@ -91,4 +91,13 @@
 
  ### Примеры:
 
+ <img src="https://github.com/ceo-zenlix/cinematest/blob/master/storage/1.jpeg?raw=true" alt="1.jpeg">
  
+ 
+ <img src="https://github.com/ceo-zenlix/cinematest/blob/master/storage/2.jpeg?raw=true" alt="2.jpeg">
+ 
+ 
+ <img src="https://github.com/ceo-zenlix/cinematest/blob/master/storage/3.jpeg?raw=true" alt="3.jpeg">
+ 
+ 
+ <img src="https://github.com/ceo-zenlix/cinematest/blob/master/storage/4.jpeg?raw=true" alt="4.jpeg">
